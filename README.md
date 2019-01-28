@@ -1,2 +1,2 @@
 # masters-python
-Python code written for UCL programming for cognitive science module
+Python code written for UCL 'Programming for Cognitive Science' module
